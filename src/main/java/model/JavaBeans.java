@@ -1,6 +1,6 @@
 package model;
 
-public class JavaBeans {
+public class JavaBeans {				
 	private String idcon;
 	private String nome;
 	private String fone;
